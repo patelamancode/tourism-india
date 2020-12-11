@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 3rem;
+}
+h2 {
+  font-size: larger;
+  margin-top: 3rem;
+}
+# btnContainer {
+  background-color: black;
+}
+
+button {
+  padding: 0, 8rem;
+  margin: 1rem;
+}
